@@ -23,4 +23,34 @@ p {
     font-size: 14px;
     text-align: center;
     color: gray;
+    padding: 10px 50px 10px 0px;
+}
+
+h2 {
+    font-size: medium;
+    color: gray;
+    padding-left: 110px;
+}
+
+li {
+    color: gray;
+    padding-left: 100px;
+    padding-bottom: -100px;
+}
+
+.cooking-info {
+    display: block;
+    padding-bottom: -100px;
+    margin-left: 140px;
+    padding-top: 10px;
+    height: 50px;
+    width: 200px;
+}
+
+.recipe-info {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 300px;
 }
