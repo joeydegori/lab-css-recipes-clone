@@ -1,0 +1,25 @@
+.title {
+    font-weight: bolder;
+    color: white;
+    position: relative;
+    left: 380px;
+    top: -700px;
+    font-size: 100px;
+}
+
+h1 {
+    background-image: url('../images/apple-pie.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 270px;
+    color: white;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: gray;
+}
